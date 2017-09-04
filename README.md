@@ -1,6 +1,6 @@
 # Nagarro-Hackathon
 
-This project was made in uder 24 hours for Hackathon code-n-counter 2.0 hosted by Nagarro on 2nd September 2017, in which our team "Einsteam" made it to top 15 out of 75 teams participating in onsite round from various states of India after qualifying an offline round of more than 4700 teams. 
+This project was made in under 24 hours for Hackathon code-n-counter 2.0 hosted by Nagarro on 2nd September 2017, in which our team "Einsteam" made it to top 15 out of 75 teams participating in onsite round from various states of India after qualifying an offline round of more than 4700 teams. 
 
 
 Inspiration
