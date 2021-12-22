@@ -1,6 +1,6 @@
 # Nagarro-Hackathon
 
-This project was made in under 24 hours for Hackathon code-n-counter 2.0 hosted by Nagarro on 2nd September 2017, in which our team "Einsteam" made it to top 15 out of 75 teams participating in onsite round from various states of India after qualifying an offline round of more than 4700 teams. 
+This project was made in under 24 hours for Hackathon code-n-counter 2.0 hosted by Nagarro on 2nd September 2017, in which our team "Einsteam" made it to top 15 out of 75 teams participating in onsite round from various states of India after qualifying an offline round of more than 4700 teams.
 
 
 Inspiration
@@ -21,7 +21,7 @@ How we built it
 
 We used Tensorflow framework in Python to build and train a Convolution Neural Network (CNN) for deciding the kind of trash by computer vision. We trained our model on set of 2700 images (80/20 training/testing ratio) for classifying "cardboard, paper, metal, plastic, glass, other ". Accuracy on Test was approximately 60%. We then used Flask framework to use our machine learning engine as an web service API. For user interface we built an Web based application (usable by mobile devices) using HTML, CSS, Javascript and PHP, which keep track of user's points and provide a system for redeeming points.
 
-Data set used can be found here: https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE
+Data set used can be found here: https://bit.ly/3mcb3aS
 
 Challenges we ran into
 
